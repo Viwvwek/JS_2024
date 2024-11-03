@@ -22,27 +22,3 @@ This repository contains code examples, exercises, and projects designed to help
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/javascript-learning-repo.git
-   cd javascript-learning-repo
-javascript-learning-repo/
-│
-├── basics/
-│   ├── variables/
-│   ├── data-types/
-│   ├── operators/
-│   └── control-structures/
-│
-├── functions/
-│
-├── objects-and-arrays/
-│
-├── DOM-manipulation/
-│
-├── asynchronous-js/
-│   ├── callbacks/
-│   ├── promises/
-│   └── async-await/
-│
-└── projects/
-    ├── calculator/
-    ├── to-do-list/
-    └── weather-app/
